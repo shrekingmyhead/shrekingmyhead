@@ -1,6 +1,6 @@
 ### HOWDY COWBOY 👋
 <div align="center">
-  <img src="https://media.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif" width="600" height="300"/>
+  <img src="C:\Users\Priyanka\Downloads\banner.png" width="600" height="300"/>
 </div>
 
 <!--
