@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+</br>
+</br>
  <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shrekingmyhead&theme=algolia"/>
 </div>
