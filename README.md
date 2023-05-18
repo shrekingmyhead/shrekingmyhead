@@ -26,5 +26,8 @@ Here are some ideas to get you started:
 <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrekingmyhead&layout=donut&langs_count=10&count_private=true&show_icons=true&bg_color=30,08203e,557c93&title_color=f5ccd4&text_color=f5ccd4&hide_border=true" /></div>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shrekingmyhead&theme=sea-dark&hide_border=true&background=45%2CC7B3CC%2C268AB2&ring=894B77&fire=894B77&currStreakNum=2A454B&sideNums=2A454B&currStreakLabel=2A454B&sideLabels=2A454B&dates=2A454B&stroke=2A454B)](https://git.io/streak-stats)
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=shrekingmyhead&theme=sea-dark&hide_border=true&background=45%2CC7B3CC%2C268AB2&ring=894B77&fire=894B77&currStreakNum=2A454B&sideNums=2A454B&currStreakLabel=2A454B&sideLabels=2A454B&dates=2A454B&stroke=2A454B" width="100"/>
+</div>
+
 
