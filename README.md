@@ -1,7 +1,5 @@
 ### HOWDY COWBOY 👋
-<div align="center">
-  <img src="C:\Users\Priyanka\Downloads\banner.png" width="600" height="300"/>
-</div>
+
 
 <!--
 **shrekingmyhead/shrekingmyhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
