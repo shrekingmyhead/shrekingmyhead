@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+ <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shrekingmyhead&theme=algolia"/>
+</div>
  
- 
- [![trophy](https://github-profile-trophy.vercel.app/?username=shrekingmyhead&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=shrekingmyhead&count_private=true&hide_border=true&show_icons=true&bg_color=30,c9def4,f5ccd4,b8a4c9&title_color=1f7ea1&text_color=1f7ea1&icon_color=83d0cb" />
